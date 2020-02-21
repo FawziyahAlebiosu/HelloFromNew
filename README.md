@@ -5,10 +5,7 @@
 This Hello World App is a pre-work project for CodePath.org’s, Mobile App Design Workshop Series.
 
 ### App Walk-through
-https://imgur.com/gallery/VWovs9m
-
-https://i.imgur.com/CyBTkTh.gif
-
+<img src="https://i.imgur.com/CyBTkTh.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
